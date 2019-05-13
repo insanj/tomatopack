@@ -1,8 +1,10 @@
 # tomatopack
-🍅 tiny datapack to add recipes for tridents &amp; renewable elytra
+
+🍅 tiny datapack to add recipes for tridents &amp; renewable elytra. [download on github!](https://github.com/insanj/tomatopack/releases)
 
 - Craft Trident with the following recipe:
-```
+
+<pre>
 Q = quartz
 S = prismarine shard
 C = prismarine crystals
@@ -10,23 +12,24 @@ C = prismarine crystals
  QQ
 SCQ
 SS
-```
+</pre>
 
 - Craft Elytra with the following recipe:
-```
+
+<pre>
 E = elytra
 P = phantom membrane
 
  P
 PEP
  P
-```
+</pre>
 
 Tested and verified working on 1.14 release.
 
 ## License
 
-```
+<pre>
 MIT License
 
 Copyright (c) 2019 Julian Weiss
@@ -48,5 +51,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-```
+</pre>
